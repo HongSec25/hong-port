@@ -96,7 +96,7 @@ export const terminalLines = [
   { text: '$ msfconsole -r rules.rc', class: 'prompt', delay: 1 },
   { text: '  # policies loaded', class: 'comment', delay: 1 },
   { text: '$ npm run build && npm run scan', class: 'prompt', delay: 2 },
-  { text: '✔ build: 2.1s   ✔ vitals: 98/100   ✔ vulns: none', class: '', delay: 3 }
+  { text: '✔ vitals: 98/100  ✔ vulns: none', class: '', delay: 3 }
 ]
 
 export const floatingSkills = [
